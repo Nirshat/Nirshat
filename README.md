@@ -9,7 +9,7 @@ I'm a BSIT 4th year college student and aspiring Web Developer
 <br> ⚡ Fun fact: I create solutions in a hardworking method
 <br>
 |  __Technologies__ 💻  | __Experience__ 💡 |
-| ------------- | ------------- |
+| --- | --- |
 | HTML | 3 years  |
 | CSS | 3 years |
 | JavaScript | 1+ year |
