@@ -8,7 +8,7 @@ I'm a BSIT 4th year college student and aspiring Web Developer
 <br> 📚 Currently learning __node.js__
 <br> ⚡ Fun fact: I create solutions in a hardworking method
 <br>
-|  __Technologies__ 💻  | __Experience__ 💡 |
+|  __TECHNOLOGIES__ 💻  | __EXPERIENCE__ 💡 |
 | --- | --- |
 | HTML | 3 years  |
 | CSS | 3 years |
