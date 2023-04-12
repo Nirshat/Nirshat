@@ -1,4 +1,4 @@
-# Hello, Konnichiwa, Annyeong! I'm Paul 👋
+# Hello, Konnichiwa, Annyeong! 👋
 I'm a BSIT 4th year college student and aspiring Web Developer
 
 
