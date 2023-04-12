@@ -18,7 +18,7 @@ I'm a BSIT 4th year college student and aspiring Web Developer
 | MySQL | 2+ years |
 | Bootstrap | 6 months |
 
-<br><br> 📫 How to reach me:
+<br> 📫 How to reach me:
  - Facebook: https://web.facebook.com/Namikaze1000/
  - Email: aronpaulgonzales1215@gmail.com
 
