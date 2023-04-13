@@ -11,13 +11,13 @@ I'm a BSIT 4th year college student and aspiring Web Developer
 
 |  __TECHNOLOGIES__ 💻  | __EXPERIENCE__ 💡 |
 | --- | --- |
-| HTML | 3 years |
-| CSS | 3 years |
-| JavaScript | 1+ year |
-| Python | 2 years |
-| PHP | 1+ year |
-| MySQL | 2+ years |
-| Bootstrap | 6 months |
+| HTML <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html" /></a> | 3 years |
+| CSS <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=css" /></a> | 3 years |
+| JavaScript <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js" /></a> | 1+ year |
+| Python <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python" /></a> | 2 years |
+| PHP <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=php" /></a> | 1+ year |
+| MySQL <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql" /></a> | 2+ years |
+| Bootstrap <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=bootstrap" /></a> | 6 months |
 <br>
 
 ![alt text](https://cdn.myanimelist.net/s/common/uploaded_files/1539652479-c3125b79f8d130a36f763f0af99b077e.jpeg)
