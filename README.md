@@ -11,13 +11,13 @@ I'm a BSIT 4th year college student and aspiring Web Developer
 
 |  __TECHNOLOGIES__ 💻  |  __YEARS OF EXPERIENCE__ 💡 |
 | --- | --- |
-| <div align="center"> <a href="https://skillicons.dev"><img height="30" src="https://skillicons.dev/icons?i=html" /></a>  HTML </div> | 3 years |
-| <div align="center"> <a href="https://skillicons.dev"><img height="30" src="https://skillicons.dev/icons?i=css" /></a>  CSS </div> | 3 years |
-| <div align="center"> <a href="https://skillicons.dev"><img height="30" src="https://skillicons.dev/icons?i=js" /></a>  JavaScript </div> | 1+ year |
-| <div align="center"> <a href="https://skillicons.dev"><img height="30" src="https://skillicons.dev/icons?i=python" /></a>  Python </div> | 2 years |
-| <div align="center"> <a href="https://skillicons.dev"><img height="30" src="https://skillicons.dev/icons?i=php" /></a>  PHP </div> | 1+ year |
-| <div align="center"> <a href="https://skillicons.dev"><img height="30" src="https://skillicons.dev/icons?i=mysql" /></a>  MySQL </div> | 2+ years |
-| <div align="center"> <a href="https://skillicons.dev"><img height="30" src="https://skillicons.dev/icons?i=bootstrap" /></a>  Bootstrap </div> | 6 months |
+| <a href="https://skillicons.dev"><img height="30" src="https://skillicons.dev/icons?i=html" /></a>  HTML | 3 years |
+| <a href="https://skillicons.dev"><img height="30" src="https://skillicons.dev/icons?i=css" /></a>  CSS | 3 years |
+| <a href="https://skillicons.dev"><img height="30" src="https://skillicons.dev/icons?i=js" /></a>  JavaScript | 1+ year |
+| <a href="https://skillicons.dev"><img height="30" src="https://skillicons.dev/icons?i=python" /></a>  Python | 2 years |
+| <a href="https://skillicons.dev"><img height="30" src="https://skillicons.dev/icons?i=php" /></a>  PHP | 1+ year |
+| <a href="https://skillicons.dev"><img height="30" src="https://skillicons.dev/icons?i=mysql" /></a>  MySQL | 2+ years |
+| <a href="https://skillicons.dev"><img height="30" src="https://skillicons.dev/icons?i=bootstrap" /></a>  Bootstrap | 6 months |
 <br>
 
 ![alt text](https://cdn.myanimelist.net/s/common/uploaded_files/1539652479-c3125b79f8d130a36f763f0af99b077e.jpeg)
