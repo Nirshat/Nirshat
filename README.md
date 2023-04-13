@@ -9,7 +9,7 @@ I'm a BSIT 4th year college student and aspiring Web Developer
 <br> ⚡ Fun fact: I create solutions in a hardworking method
 <br>
 
-__TECHNOLOGIES__ 💻: <br>
+###__TECHNOLOGIES__ 💻: <br>
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html" /></a>
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=css" /></a>
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js" /></a>
