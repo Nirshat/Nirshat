@@ -18,6 +18,7 @@ I'm a BSIT 4th year college student and aspiring Web Developer
 | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=php" /></a> | 1+ year |
 | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql" /></a> | 2+ years |
 | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=bootstrap" /></a> | 6 months |
+| --- | --- |
 <br>
 
 ![alt text](https://cdn.myanimelist.net/s/common/uploaded_files/1539652479-c3125b79f8d130a36f763f0af99b077e.jpeg)
