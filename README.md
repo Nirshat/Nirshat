@@ -1,6 +1,5 @@
 # Hello, Konnichiwa, Annyeong! 👋
-I'm an aspiring web developer with no work experience and has an
-aptitude for creating solutions in a hardworking method.
+I'm an aspiring web developer with an aptitude for creating solutions in a hardworking method.
 
 
 
