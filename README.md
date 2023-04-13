@@ -1,12 +1,14 @@
 # Hello, Konnichiwa, Annyeong! 👋
-I'm a BSIT 4th year college student and aspiring Web Developer
+I am an aspiring web developer with no work experience and has an
+aptitude for creating solutions in a hardworking method.
+Interested in developing websites or web applications and looking
+forward to use my skills for the growth of organization and myself.
 
 
 
 🔭 I'm currently working on our capstone project
 <br> 👀 Interested in Web Development
 <br> 📚 Currently learning __node.js__
-<br> ⚡ Fun fact: I create solutions in a hardworking method
 <br>
 
 ### __TECHNOLOGIES__ 💻: <br>
