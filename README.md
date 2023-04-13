@@ -8,6 +8,8 @@ I'm a BSIT 4th year college student and aspiring Web Developer
 <br> 📚 Currently learning __node.js__
 <br> ⚡ Fun fact: I create solutions in a hardworking method
 <br>
+
+<div align = "center">
 |  __TECHNOLOGIES__ 💻  | __EXPERIENCE__ 💡 |
 | --- | --- |
 | HTML | 3 years  |
@@ -17,6 +19,7 @@ I'm a BSIT 4th year college student and aspiring Web Developer
 | PHP | 1+ year |
 | MySQL | 2+ years |
 | Bootstrap | 6 months |
+</div>
 
 <br>
 
