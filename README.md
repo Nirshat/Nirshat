@@ -8,7 +8,7 @@ I'm an aspiring professional web developer with an aptitude for creating solutio
 <br> 📚 Currently learning __node.js__
 <br>
 
-### __TECHNOLOGIES__: <br>
+### __TECHNOLOGIES:__ <br>
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html" /></a>
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=css" /></a>
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js" /></a>
