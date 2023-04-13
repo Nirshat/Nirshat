@@ -11,7 +11,7 @@ I'm a BSIT 4th year college student and aspiring Web Developer
 
 |  __TECHNOLOGIES__ 💻  |  __YEARS OF EXPERIENCE__ 💡 |
 | --- | --- |
-| <a href="https://skillicons.dev"><img height="30" src="https://skillicons.dev/icons?i=html" /></a> <i align="center">HTML</i> | 3 years |
+| <a href="https://skillicons.dev"><img height="30" src="https://skillicons.dev/icons?i=html" /></a> HTML | 3 years |
 | <a href="https://skillicons.dev"><img height="30" src="https://skillicons.dev/icons?i=css" /></a>  CSS | 3 years |
 | <a href="https://skillicons.dev"><img height="30" src="https://skillicons.dev/icons?i=js" /></a>  JavaScript | 1+ year |
 | <a href="https://skillicons.dev"><img height="30" src="https://skillicons.dev/icons?i=python" /></a>  Python | 2 years |
