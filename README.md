@@ -1,5 +1,5 @@
 # Hello, Konnichiwa, Annyeong! 👋
-I'm an aspiring professional web developer with an aptitude for creating solutions in a hardworking method and motivated to learn new things for consistently growth of my skill.
+I'm an aspiring professional web developer with an aptitude for creating solutions in a hardworking method and motivated to learn new things for continous growth of my skill.
 
 
 
