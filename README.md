@@ -5,7 +5,7 @@ aptitude for creating solutions in a hardworking method.
 
 
 🔭 Currently working on our capstone project
-<br> 👀 Interested in developing websites & web applications
+<br> 👀 Interested in Web Development
 <br> 📚 Currently learning __node.js__
 <br>
 
