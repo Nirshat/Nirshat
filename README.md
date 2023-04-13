@@ -9,13 +9,15 @@ I'm an aspiring professional web developer with an aptitude for creating solutio
 <br>
 
 ### __TECHNOLOGIES:__ <br>
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html" /></a>
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=css" /></a>
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js" /></a>
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python" /></a>
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=php" /></a>
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql" /></a>
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=bootstrap" /></a>
+<a href="https://skillicons.dev"> </a>
+
+<img src="https://skillicons.dev/icons?i=html" />
+<img src="https://skillicons.dev/icons?i=css" />
+<img src="https://skillicons.dev/icons?i=js" />
+<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://skillicons.dev/icons?i=php" />
+<img src="https://skillicons.dev/icons?i=mysql" />
+<img src="https://skillicons.dev/icons?i=bootstrap" />
 <br>
 
 ![alt text](https://cdn.myanimelist.net/s/common/uploaded_files/1539652479-c3125b79f8d130a36f763f0af99b077e.jpeg)
