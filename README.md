@@ -1,13 +1,11 @@
 # Hello, Konnichiwa, Annyeong! 👋
-I am an aspiring web developer with no work experience and has an
+I'm an aspiring web developer with no work experience and has an
 aptitude for creating solutions in a hardworking method.
-Interested in developing websites or web applications and looking
-forward to use my skills for the growth of organization and myself.
 
 
 
-🔭 I'm currently working on our capstone project
-<br> 👀 Interested in Web Development
+🔭 Currently working on our capstone project
+👀 Interested in developing websites & web applications
 <br> 📚 Currently learning __node.js__
 <br>
 
