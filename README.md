@@ -3,7 +3,7 @@ I'm an aspiring professional web developer with an aptitude for creating solutio
 
 
 
-🔭 Currently working on our capstone project
+💻 Currently working on our capstone project
 <br> 👀 Interested in Web Development
 <br> 📚 Currently learning __node.js__
 <br>
