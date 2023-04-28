@@ -19,7 +19,6 @@ I'm an aspiring professional web developer with an aptitude for creating solutio
 <img src="https://skillicons.dev/icons?i=mysql" />
 <img src="https://skillicons.dev/icons?i=bootstrap" />
 <img src="https://skillicons.dev/icons?i=vscode" />
-<img src="https://skillicons.dev/icons?i=apache" />
 </p>
 <br>
 
