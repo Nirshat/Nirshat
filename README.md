@@ -20,6 +20,5 @@ I'm an aspiring professional web developer with an aptitude for creating solutio
 <img src="https://skillicons.dev/icons?i=bootstrap" />
 <img src="https://skillicons.dev/icons?i=vscode" />
 </p>
-<br>
 
 <!-- ![alt text](https://cdn.myanimelist.net/s/common/uploaded_files/1539652479-c3125b79f8d130a36f763f0af99b077e.jpeg) -->
