@@ -18,9 +18,7 @@ I'm an aspiring professional web developer with an aptitude for creating solutio
 <img src="https://skillicons.dev/icons?i=php" />
 <img src="https://skillicons.dev/icons?i=mysql" />
 <img src="https://skillicons.dev/icons?i=bootstrap" />
-<img src="https://skillicons.dev/icons?i=VSCode" />
-<img src="https://skillicons.dev/icons?i=XAMPP" />
-<img src="https://skillicons.dev/icons?i=Canva" />
+<img src="https://skillicons.dev/icons?i=vscode" />
 </p>
 <br>
 
