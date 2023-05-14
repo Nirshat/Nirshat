@@ -5,7 +5,7 @@ I'm an aspiring professional web developer with an aptitude for creating alterna
 
 👀 Interested in Web Development
 <br> 📚 Currently learning __Laravel__
-<br> ⏭️ Next target learnings: __VueJS, Wordpress, ReactJS, NodeJS__
+<br> ⏭️ Next target to be studied: __VueJS, Wordpress, ReactJS, NodeJS__
 <br>
 
 ### __TECHNOLOGIES/DEV. TOOLS:__ <br>
