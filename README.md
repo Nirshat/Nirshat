@@ -19,6 +19,8 @@ I'm an aspiring professional web developer with an aptitude for creating alterna
 <img src="https://skillicons.dev/icons?i=mysql" />
 <img src="https://skillicons.dev/icons?i=bootstrap" />
 <img src="https://skillicons.dev/icons?i=vscode" />
+<img src="https://skillicons.dev/icons?i=node" />
+<img src="https://skillicons.dev/icons?i=express" />
 </p>
 
 <!-- ![alt text](https://cdn.myanimelist.net/s/common/uploaded_files/1539652479-c3125b79f8d130a36f763f0af99b077e.jpeg) -->
