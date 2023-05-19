@@ -19,7 +19,7 @@ I'm an aspiring professional web developer with an aptitude for creating alterna
 <img src="https://skillicons.dev/icons?i=mysql" />
 <img src="https://skillicons.dev/icons?i=bootstrap" />
 <img src="https://skillicons.dev/icons?i=vscode" />
-<img src="https://skillicons.dev/icons?i=node" />
+<img src="https://skillicons.dev/icons?i=nodejs" />
 <img src="https://skillicons.dev/icons?i=express" />
 </p>
 
