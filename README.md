@@ -4,7 +4,7 @@ I'm an aspiring web developer with an aptitude for creating web solutions and mo
 
 
 👀 Interested in Web Development
-<br> 📚 Currently learning __React, Laravel__
+<br> 📚 Currently learning __React, TypeScript, Laravel__
 <br> ⏭️ Next target to be studied: __VueJS, WordPress__
 <br>
 
