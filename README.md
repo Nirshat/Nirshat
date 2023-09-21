@@ -27,6 +27,7 @@ I'm an aspiring web developer with an aptitude for creating web solutions and mo
 <img src="https://skillicons.dev/icons?i=ts" />
 <img src="https://skillicons.dev/icons?i=git" />
 <img src="https://skillicons.dev/icons?i=github" />
+<img src="https://skillicons.dev/icons?i=tailwind" />
 <img src="https://skillicons.dev/icons?i=mui" />
 <img src="https://skillicons.dev/icons?i=sass" />
 <img src="https://skillicons.dev/icons?i=postman" />
