@@ -4,8 +4,8 @@ I'm an aspiring web developer with an aptitude for creating web solutions and mo
 
 
 👀 Interested in Front-end Development
-<br> 📚 Currently learning __React, TypeScript, Laravel__
-<br> ⏭️ Next target to be studied: __Figma, VueJS, Next.Js, WordPress__
+<br> 📚 Currently learning __Vue.Js, React, TypeScript__
+<br> ⏭️ Next target to be studied: __Figma, Next.Js, WordPress__
 <br>
 
 ### __TECHNOLOGIES/DEV. TOOLS:__ <br>
