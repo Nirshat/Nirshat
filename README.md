@@ -4,7 +4,7 @@ I'm an aspiring web developer with an aptitude for creating web solutions and mo
 
 
 🐼 Specializing Front-end web Development
-<br> 📚 Currently learning __Vue.Js, React, TypeScript__
+<br> 🔥 Non-stop learning __Vue.Js, React, TypeScript__
 <br> ⏭️ Next target to be studied: __Figma, Next.Js, WordPress__
 <br>
 
