@@ -1,12 +1,12 @@
-# Hello, Konnichiwa, Annyeong! 👋
+# Yo!👋
 <!--I'm an aspiring web developer with an aptitude for creating web solutions and motivated to learn new things for continous growth of my skill.-->
 
 
 
 🐼 Specializing Front-end web Development
-<br> 🔥 Non-stop learning __Vue.Js, React, TypeScript__
+<!--<br> 🔥 Non-stop learning __Vue.Js, React, TypeScript__
 <br> 👀 Next target to be studied: __Figma, Next.Js, WordPress__
-<br>
+<br> -->
 
 ### __TECHNOLOGIES/DEV. TOOLS:__ <br>
 <a href="https://skillicons.dev"> </a>
